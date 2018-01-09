@@ -9,7 +9,10 @@ Load SOSEX:
 
 Sympath:  
 
-> .sympath srv*c:\symbols*//msdl.microsoft.com/download/symbols  
+> .sympath 
+<pre>
+srv*c:\symbols*//msdl.microsoft.com/download/symbols  
+</pre>
 > .reload -f  
 
 Dump Stack Object:  
