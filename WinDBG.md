@@ -1,14 +1,17 @@
-.Net Debug 
-Load SOS: 
+.Net Debug   
+Load SOS:  
 
-> .loadby sos clr
+> .loadby sos clr  
 
-Load SOSEX:
+Load SOSEX:  
 
-> .load **path**/sosex.dll
+> .load **path**/sosex.dll  
 
-Sympath:
+Sympath:  
 
-> .sympath srv*c:\symbols*//msdl.microsoft.com/download/symbols 
-> .reload
+> .sympath srv*c:\symbols*//msdl.microsoft.com/download/symbols  
+> .reload -f  
+
+
+
 
