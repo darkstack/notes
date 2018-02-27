@@ -1,6 +1,8 @@
 ## Random Stuff  
 [Fermat Library](http://fermatslibrary.com/)  
 
+## Tools 
+[AsmSpy](https://github.com/mikehadlow/AsmSpy) Find assembly references.
 
 ## Dev  
 [Intel Manuals](https://software.intel.com/en-us/articles/intel-sdm)  
