@@ -11,7 +11,7 @@ Sympath:
 
 > .sympath 
 <pre>
-srv*c:\symbols*//msdl.microsoft.com/download/symbols  
+srv*c:\symbols*http://msdl.microsoft.com/download/symbols  
 </pre>
 > .reload -f  
 
